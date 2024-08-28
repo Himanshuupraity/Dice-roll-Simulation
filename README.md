@@ -1,5 +1,5 @@
 # Dice-roll-Simulation
-Here I made the virtual dice roll.
+Here I made the virtual dice roll using Python GUI - Tkinter.
 <h2>Process of Code</h2>
 <ol>
   <li>Import the tkinter</li>
